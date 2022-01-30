@@ -7,7 +7,7 @@ Data model done for datalake using pyspark
 
 ## Data model
 
-# GPPractices
+### GPPractices
 
 ```
 schema = StructType([
@@ -30,7 +30,7 @@ schema = StructType([
 
 
 ```
-# GPOpeningTimes
+### GPOpeningTimes
 
 ```
 schema = StructType([
@@ -42,7 +42,7 @@ schema = StructType([
 ])
 
 ```
-# TransparencyIndicatorsGPPerformance
+### TransparencyIndicatorsGPPerformance
 
 ```
 schema = StructType([
@@ -56,6 +56,7 @@ schema = StructType([
 
 ```
 img src="./docs/pic.svg" width="400" />
+img src="./docs/pic.drawio.svg" width="400" />
 
 
 # Data load and transform
