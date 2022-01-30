@@ -55,8 +55,10 @@ schema = StructType([
 ])
 
 ```
-img src="./docs/pic.svg" width="400" />
-img src="./docs/pic.drawio.svg" width="400" />
+
+<img src="./docs/pic.svg" width="700" />
+<img src="./docs/pic.drawio.svg" width="700" />
+
 
 
 # Data load and transform
