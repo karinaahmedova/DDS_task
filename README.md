@@ -56,14 +56,15 @@ schema = StructType([
 
 ```
 
-<img src="./docs/pic.svg" width="700" />
 <img src="./docs/pic.drawio.svg" width="700" />
 
 
 
-# Data load and transform
+## Data load and transform
 
+Code for data load and transformations are in: 
 
 ```
 ./src/load_transform.py
+
 ```
